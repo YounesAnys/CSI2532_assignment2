@@ -129,7 +129,7 @@ Bateau (enchère, bname, bcolor)
  e. (RDC) Liste les couleurs de tous les bateaux réservés par Lubber.
 {<C> | <I, N, C> ∈ Bateaux ∧ <S, I, D> ∈ Réserves ∧ <S, 'Lubber', R, A> ∈ Marins}
 
- Q4. RAID
+ ## Q4. RAID
 1 -> B
 Je peux utiliser une technique de niveau RAID 0 car je ne suis pas préoccupé par la perte de données. Mon objectif principal est de pouvoir lire et écrire à grande vitesse.
 
