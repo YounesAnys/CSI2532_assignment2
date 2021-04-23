@@ -19,6 +19,8 @@ BC
 
 BD
 
+b)
+
 ## Q2 : Dépendances fonctionnelles
 
 a) Identifions les quatre dépendances fonctionnelles décrites :
