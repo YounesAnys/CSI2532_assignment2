@@ -20,6 +20,7 @@ BC
 BD
 
 b)
+C et D ne sont pas des super clés
 
 ## Q2 : Dépendances fonctionnelles
 
